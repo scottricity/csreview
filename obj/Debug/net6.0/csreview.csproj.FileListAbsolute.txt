@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\bin\Debug\net6.0\csreview.exe
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\bin\Debug\net6.0\csreview.deps.json
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\bin\Debug\net6.0\csreview.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\bin\Debug\net6.0\csreview.dll
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\bin\Debug\net6.0\csreview.pdb
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.dll
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\refint\csreview.dll
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.pdb
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\csreview.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Jonathan\Development\csreview\obj\Debug\net6.0\ref\csreview.dll
